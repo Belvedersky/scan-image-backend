@@ -1,8 +1,9 @@
 Cканы
-node_modules
+node_modules/
 public/1.png
 public/out.PNG
 public/out.JPG
 public/out.TIFF
 package-lock.json
 images
+.DS_Store

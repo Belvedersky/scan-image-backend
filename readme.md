@@ -1,6 +1,6 @@
 # scanner
 
-> Home scanner backend for hhttps://github.com/Belvedersky/scan-image-frontend
+> Home scanner backend for https://github.com/Belvedersky/scan-image-frontend
 
 TODO:
 1. socket.io процес сканирования
