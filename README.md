@@ -3,6 +3,7 @@
 > Home scanner backend for https://github.com/Belvedersky/scan-image-frontend
 
 TODO:
+
 1. socket.io процес сканирования
 2. ошибочки нормально отправлять
 3. like this https://www.npmjs.com/package/ya-disk
